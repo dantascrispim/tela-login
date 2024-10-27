@@ -19,6 +19,7 @@
 ## 🛠️ Tecnologias Usadas
   - HTML: Para estruturar tudo.
   - CSS: Para deixar tudo bonito e responsivo.
+  - React JS: Facilitação de criação de componentes.
   - JavaScript: Para adicionar aquela interatividade.
   - GITHUBPAGES: Onde meu portfólio está hospedado.
 
