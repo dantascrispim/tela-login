@@ -33,10 +33,10 @@
 ## License
   Este projeto está sob a licença [MIT](https://choosealicense.com/licenses/mit/)
 
-🌐 Confira Meu Projeto
+🌐 Confira Meu Projeto: http://dantascrispim.github.io.telalogin/
   Você pode ver o projeto ao vivo aqui: 
 
-📫 Como Me Encontrar:
+📫 Como Me Encontrar: 
 
      Linkedin: Dantas Crispim
 
