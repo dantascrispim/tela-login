@@ -12,8 +12,8 @@
 
 
 ## 🚀 O Que é?
-  Esta tela de login online apresenta minhas habilidades em react JS, projetos desenvolvidos e trajetória de aprendizado na área de desenvolvimento. 
-  É um espaço dedicado a exibir meu trabalho e crescimento profissional. 🌐💻
+  Essa tela de login online apresenta umas das minhas habilidades em react JS , projetos desenvolvidos e trajetória de aprendizado na área de desenvolvimento. 
+  🌐💻
 
 
 ## 🛠️ Tecnologias Usadas
