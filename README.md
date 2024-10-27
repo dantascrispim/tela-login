@@ -20,7 +20,7 @@
   - HTML: Para estruturar tudo.
   - CSS: Para deixar tudo bonito e responsivo.
   - JavaScript: Para adicionar aquela interatividade.
-  - GITGUHPAGES: Onde meu portfólio está hospedado.
+  - GITHUBPAGES: Onde meu portfólio está hospedado.
 
 ## Pré-Requisitos
 
